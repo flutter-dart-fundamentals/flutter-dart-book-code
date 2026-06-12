@@ -1,4 +1,4 @@
-// Exercise 02 — Vowel counter
+// Exercise 02 - Vowel counter
 
 /* Write a program that takes a word from the user and counts how many vowels
 it contains (a, e, i, o, u). Use a for loop to iterate through each

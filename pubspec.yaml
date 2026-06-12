@@ -1,6 +1,7 @@
-name: Flutter Dart Book Code
-description: Code snippets and exercises for the Flutter & Dart textbook.
+name: flutter_dart_book_code
+description: Code listings and exercises for Flutter and Dart Fundamentals.
 version: 1.0.0
+publish_to: none
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

@@ -1,4 +1,4 @@
-// Exercise 03 — Null safety practice
+// Exercise 03 - Null safety practice
 
 /* Write a program that asks the user for two inputs: their name and their age.
 Handle the case where the user provides no name (use ?? to provide a default

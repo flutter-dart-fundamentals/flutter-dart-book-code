@@ -1,4 +1,4 @@
-// Exercise 03 — Enhanced guessing game
+// Exercise 03 - Enhanced guessing game
 
 /* Modify the guessing game to limit the player to 7 attempts. After each wrong guess,
 tell them how many attempts remain. If they run out, reveal the answer and ask if they'd like to play again.
