@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Image(
             image: NetworkImage(
-              'https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg',
+              'https://raw.githubusercontent.com/flutter-dart-fundamentals/flutter-dart-book-code/main/chapter_12/snippets/mycat.jpeg',
             ),
           ),
         ),
